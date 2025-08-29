@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Missing Tags</title>
+<!-- Missing </head> -->
+<body>
+    <h2>Welcome</h2>
+    <p>This page is missing the closing head tag.</p>
+</body>
+</html>
